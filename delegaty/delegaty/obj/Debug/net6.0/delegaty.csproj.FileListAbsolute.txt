@@ -1,0 +1,15 @@
+C:\Users\wojtowicz.jakub\source\repos\delegaty\delegaty\bin\Debug\net6.0\delegaty.exe
+C:\Users\wojtowicz.jakub\source\repos\delegaty\delegaty\bin\Debug\net6.0\delegaty.deps.json
+C:\Users\wojtowicz.jakub\source\repos\delegaty\delegaty\bin\Debug\net6.0\delegaty.runtimeconfig.json
+C:\Users\wojtowicz.jakub\source\repos\delegaty\delegaty\bin\Debug\net6.0\delegaty.dll
+C:\Users\wojtowicz.jakub\source\repos\delegaty\delegaty\bin\Debug\net6.0\delegaty.pdb
+C:\Users\wojtowicz.jakub\source\repos\delegaty\delegaty\obj\Debug\net6.0\delegaty.csproj.AssemblyReference.cache
+C:\Users\wojtowicz.jakub\source\repos\delegaty\delegaty\obj\Debug\net6.0\delegaty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojtowicz.jakub\source\repos\delegaty\delegaty\obj\Debug\net6.0\delegaty.AssemblyInfoInputs.cache
+C:\Users\wojtowicz.jakub\source\repos\delegaty\delegaty\obj\Debug\net6.0\delegaty.AssemblyInfo.cs
+C:\Users\wojtowicz.jakub\source\repos\delegaty\delegaty\obj\Debug\net6.0\delegaty.csproj.CoreCompileInputs.cache
+C:\Users\wojtowicz.jakub\source\repos\delegaty\delegaty\obj\Debug\net6.0\delegaty.dll
+C:\Users\wojtowicz.jakub\source\repos\delegaty\delegaty\obj\Debug\net6.0\refint\delegaty.dll
+C:\Users\wojtowicz.jakub\source\repos\delegaty\delegaty\obj\Debug\net6.0\delegaty.pdb
+C:\Users\wojtowicz.jakub\source\repos\delegaty\delegaty\obj\Debug\net6.0\delegaty.genruntimeconfig.cache
+C:\Users\wojtowicz.jakub\source\repos\delegaty\delegaty\obj\Debug\net6.0\ref\delegaty.dll
